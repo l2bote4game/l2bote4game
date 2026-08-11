@@ -5,11 +5,11 @@
 
   <!-- Animated Typing Headline -->
   <a href="https://bavovnastudio.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=Autonomous+AI+Agent+Systems;Web3+%26+Solana+Developer;Fullstack+Software+Architect;Founder+%40+Bavovna+Studio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=Autonomous+AI+Agent+Systems;Web3+%26+Solana+Developer;Android+Game+%26+Tool+Engineer;Founder+%40+Bavovna+Studio" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Building next-generation AI workflows, Solana dApps, Android tools, and modern web architectures.</b>
+    <b>Building next-generation AI workflows, Solana dApps, Android games & tools, and modern web architectures.</b>
   </p>
 
   <!-- Quick Badges -->
@@ -27,12 +27,23 @@
 
 <hr />
 
-### 🚀 Featured Release
+### 🚀 Featured Releases
 
 <div align="center">
-  <a href="https://github.com/l2bote4game/wifiscaner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l2bote4game&repo=wifiscaner&theme=cyberpunk&hide_border=true&bg_color=0D1117" alt="WiFi Analyzer Scanner Repo" />
-  </a>
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/l2bote4game/wifiscaner">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=l2bote4game&repo=wifiscaner&theme=cyberpunk&hide_border=true&bg_color=0D1117" alt="WiFi Analyzer Scanner Repo" width="390" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/l2bote4game/cats-match3-game">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=l2bote4game&repo=cats-match3-game&theme=cyberpunk&hide_border=true&bg_color=0D1117" alt="Cats Match 3 Game Repo" width="390" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -43,12 +54,12 @@
 > INITIALIZING SYSTEM...
 > IDENTITY: Archicat / Bavovna Studio Founder
 > SPECIALIZATION: Multi-Agent Systems, Web3 Ecosystems, Android Kotlin, Fullstack
-> RECENT RELEASE: WiFi Analyzer & Network Scanner (Jetpack Compose / Coroutines)
+> OPEN SOURCE RELEASES: WiFi Analyzer & NetScanner • Cats Match-3 Quest Game
 > LABS SITE: https://bavovnastudio.github.io
 ```
 
 - 🤖 **Autonomous AI Systems:** Engineering agentic multi-agent orchestrations, LLM tool-calling, and custom desktop automation.
-- 📶 **Android & Mobile Engineering:** Building native Jetpack Compose & Kotlin applications (e.g. WiFi Analyzer & NetScanner).
+- 🐾 **Android Game & Mobile Engineering:** Building native Jetpack Compose & Kotlin games (Cats Match-3) and utility apps (WiFi Scanner).
 - ⚡ **Web3 & Solana:** Developing high-performance decentralized applications, Anchor smart contracts, and Web3 interactive mechanics.
 
 ---
