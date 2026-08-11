@@ -17,7 +17,7 @@
     <a href="https://bavovnastudio.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Website-bavovnastudio.github.io-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
     </a>
-    <a href="https://x.com" target="_blank">
+    <a href="https://x.com/Archi_____cat" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
     </a>
     <img src="https://img.shields.io/badge/Status-Building_the_Future-00FF88?style=for-the-badge&logo=target&logoColor=black" alt="Status" />
