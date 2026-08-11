@@ -5,11 +5,11 @@
 
   <!-- Animated Typing Headline -->
   <a href="https://bavovnastudio.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=Autonomous+AI+Agent+Systems;Web3+%26+Solana+Developer;Android+Game+%26+Tool+Engineer;Founder+%40+Bavovna+Studio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=Autonomous+AI+Agent+Systems;Web3+%26+Solana+Developer;Android+Game+%26+Tool+Engineer;Real-time+Global+Intelligence;Founder+%40+Bavovna+Studio" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Building next-generation AI workflows, Solana dApps, Android games & tools, and modern web architectures.</b>
+    <b>Building next-generation AI workflows, Solana dApps, Android games & tools, global intelligence dashboards, and modern web architectures.</b>
   </p>
 
   <!-- Quick Badges -->
@@ -43,6 +43,13 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/l2bote4game/world-monitor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=l2bote4game&repo=world-monitor&theme=cyberpunk&hide_border=true&bg_color=0D1117" alt="World Monitor Repo" width="790" />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -53,11 +60,12 @@
 ```gcode
 > INITIALIZING SYSTEM...
 > IDENTITY: Archicat / Bavovna Studio Founder
-> SPECIALIZATION: Multi-Agent Systems, Web3 Ecosystems, Android Kotlin, Fullstack
-> OPEN SOURCE RELEASES: WiFi Analyzer & NetScanner • Cats Match-3 Quest Game
+> SPECIALIZATION: Multi-Agent Systems, Web3 Ecosystems, Android Kotlin, Fullstack, Global Intelligence
+> OPEN SOURCE RELEASES: World Monitor • WiFi Analyzer & NetScanner • Cats Match-3 Quest Game
 > LABS SITE: https://bavovnastudio.github.io
 ```
 
+- 🌍 **Global Intelligence Dashboards:** Real-time geopolitical & infrastructure monitoring (World Monitor) with AI-powered event tagging.
 - 🤖 **Autonomous AI Systems:** Engineering agentic multi-agent orchestrations, LLM tool-calling, and custom desktop automation.
 - 🐾 **Android Game & Mobile Engineering:** Building native Jetpack Compose & Kotlin games (Cats Match-3) and utility apps (WiFi Scanner).
 - ⚡ **Web3 & Solana:** Developing high-performance decentralized applications, Anchor smart contracts, and Web3 interactive mechanics.
@@ -69,8 +77,8 @@
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <br />
   <!-- Frameworks -->
@@ -81,6 +89,7 @@
   <br />
   <!-- AI & Crypto -->
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
