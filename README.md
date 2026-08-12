@@ -4,49 +4,56 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:9D50BB&height=220&section=header&text=BAVOVNA%20STUDIO%20%7C%20ARCHICAT&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" alt="Bavovna Studio Banner" />
 
   <!-- Animated Typing Headline -->
-  <a href="https://bavovnastudio.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=Autonomous+AI+Agent+Systems;Web3+%26+Solana+Developer;Android+Game+%26+Tool+Engineer;Real-time+Global+Intelligence;Founder+%40+Bavovna+Studio" alt="Typing SVG" />
+  <a href="https://arch1cat.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+%26+Content+Creator;3D+WebGL+%26+Android+Kotlin+Dev;Media+Metadata+Cleaner;World+Monitor+%26+WiFi+Scanner;Project+Yotei+(yotei.com.ua)" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Building next-generation AI workflows, Solana dApps, Android games & tools, global intelligence dashboards, and modern web architectures.</b>
+    <b>Software engineer, AI developer, and content creator building 3D WebGL experiences, Android applications, and open-source tooling.</b>
   </p>
 
   <!-- Quick Badges -->
   <p align="center">
-    <a href="https://bavovnastudio.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Website-bavovnastudio.github.io-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
+    <a href="https://arch1cat.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Website-arch1cat.github.io-00FF66?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
     </a>
     <a href="https://x.com/Archi_____cat" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Building_the_Future-00FF88?style=for-the-badge&logo=target&logoColor=black" alt="Status" />
+    <a href="https://yotei.com.ua/" target="_blank">
+      <img src="https://img.shields.io/badge/Yotei-yotei.com.ua-9D50BB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Yotei" />
+    </a>
   </p>
 
 </div>
 
 <hr />
 
-### 🚀 Featured Releases
+### 🚀 Featured Open Source Repositories
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
+        <a href="https://github.com/l2bote4game/media-meta-cleaner">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=l2bote4game&repo=media-meta-cleaner&theme=cyberpunk&hide_border=true&bg_color=0D1117" alt="Media Metadata Cleaner Repo" width="390" />
+        </a>
+      </td>
+      <td>
         <a href="https://github.com/l2bote4game/wifiscaner">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=l2bote4game&repo=wifiscaner&theme=cyberpunk&hide_border=true&bg_color=0D1117" alt="WiFi Analyzer Scanner Repo" width="390" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/l2bote4game/world-monitor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=l2bote4game&repo=world-monitor&theme=cyberpunk&hide_border=true&bg_color=0D1117" alt="World Monitor Repo" width="390" />
         </a>
       </td>
       <td>
         <a href="https://github.com/l2bote4game/cats-match3-game">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=l2bote4game&repo=cats-match3-game&theme=cyberpunk&hide_border=true&bg_color=0D1117" alt="Cats Match 3 Game Repo" width="390" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/l2bote4game/world-monitor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=l2bote4game&repo=world-monitor&theme=cyberpunk&hide_border=true&bg_color=0D1117" alt="World Monitor Repo" width="790" />
         </a>
       </td>
     </tr>
