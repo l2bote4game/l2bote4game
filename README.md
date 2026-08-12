@@ -5,11 +5,11 @@
 
   <!-- Animated Typing Headline -->
   <a href="https://arch1cat.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+%26+Content+Creator;3D+WebGL+%26+Android+Kotlin+Dev;Media+Metadata+Cleaner;World+Monitor+%26+WiFi+Scanner;Project+Yotei+(yotei.com.ua)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=50&lines=AI+Agent+Systems+%26+Workflows;3D+WebGL+%26+Fullstack+Web;Android+Kotlin+Apps+%26+Games;Telegram+Bots+%26+Automation;Media+Production%2C+SEO+%26+Growth" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Software engineer, AI developer, and content creator building 3D WebGL experiences, Android applications, and open-source tooling.</b>
+    <b>Fullstack engineer & creator building autonomous AI systems, 3D WebGL experiences, native Android apps, Telegram bots, and high-impact digital media.</b>
   </p>
 
   <!-- Quick Badges -->
@@ -103,9 +103,17 @@
 
 ---
 
-### 📊 GitHub Activity Matrix
+### 📊 GitHub Activity Matrix & Snake
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l2bote4game/l2bote4game/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/l2bote4game/l2bote4game/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/l2bote4game/l2bote4game/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+
+  <br><br>
+
   <table border="0">
     <tr>
       <td>
